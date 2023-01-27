@@ -1,5 +1,5 @@
 <p>
-<p><a href="https://twitter.com/gauravofficial_" target="blank"><img align="right" src="https://img.shields.io/https://twitter.com/Gauravofficial_?logo=twitter&style=for-the-badge" alt="Gauravofficial_" /></a>
+<p><a href="https://twitter.com/gauravofficial_" target="blank"><img align="right" src="https://img.shields.io/twitter.com/Gauravofficial_?logo=twitter&style=for-the-badge" alt="Gauravofficial_" /></a>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=sengarofficial&label=Profile%20views&color=0e75b6&style=flat" alt="sengarofficial" /></a>
 </p>
 
