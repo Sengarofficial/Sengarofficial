@@ -4,9 +4,9 @@
 </p>
 
 👋 Hi, I’m Gaurav Singh
-- 👀 I’m interested in structuring the civilization through technology & better financial distribution for reforms..!!!
-- 🌱 I’m currently learning data science in python & full stack technology..!!!
-- 💞️ I’m looking to collaborate anytime with people having features of ungovernable curiosity within them..!!!
+- 👀 Interested in structuring the civilization through technology & better financial distribution for reforms..!!!
+- 🌱 Currently learning data science in python & full stack technology..!!!
+- 💞️ Looking to collaborate anytime with people having features of ungovernable curiosity within them..!!!
 - 📫 reach me through my mail **grv.m02@gmail.com** or through my social media networks:
 <p align="left">
 <a href="https://dev.to/dev.to/sengarofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/sengarofficial" height="30" width="40" /></a>
